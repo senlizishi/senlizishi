@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm BIN</h1>
 
-<!--
-**senlizishi/senlizishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A coder from China 
+- 🔭 I'm now working in a game company.
+- 🌱 I'm currently learning **Big Data** and **Spider**.
+- 📫 How to reach me: weixubin814@gmail.com
+- ⚡ My articles [SapphireCoder](https://www.toutiao.com/c/user/token/MS4wLjABAAAAZvJU5jXbrNxAamgMDrkMw67BULVrhgeMt2IkrvQ8KVk/)
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://skillicons.dev/icons?i=java,py,vue,lua,ruby,&theme=light)
+
+### Statistics
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=senlizishi&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21" />
