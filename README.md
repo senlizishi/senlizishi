@@ -2,7 +2,7 @@
 
 ### A coder from China 
 - 🔭 I'm now working in a game company.
-- 🌱 I'm currently learning **Big Data** and **Spider**.
+- 🌱 I'm currently learning **Big Data**.
 - 📫 How to reach me: weixubin814@gmail.com
 - ⚡ My articles [SapphireCoder](https://www.toutiao.com/c/user/token/MS4wLjABAAAAZvJU5jXbrNxAamgMDrkMw67BULVrhgeMt2IkrvQ8KVk/)
 
