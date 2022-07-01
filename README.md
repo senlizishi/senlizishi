@@ -3,7 +3,7 @@
 ### A coder from China 
 - 🔭 I'm now working in a game company.
 - 🌱 I'm currently learning **Big Data**.
-- 📫 How to reach me: weixubin814@gmail.com
+- 📫 How to reach me: 94719940@qq.com
 - ⚡ My articles [SapphireCoder](https://www.toutiao.com/c/user/token/MS4wLjABAAAAZvJU5jXbrNxAamgMDrkMw67BULVrhgeMt2IkrvQ8KVk/)
 
 ### Languages
